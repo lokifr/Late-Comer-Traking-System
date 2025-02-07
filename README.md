@@ -14,7 +14,7 @@ A user-friendly application built with Custom Tkinter & Pandas to help teachers/
 This app streamlines the tracking process, making it effortless for schools/colleges to maintain accurate attendance records. 🎯📚
 
 **exe file link**
-https://drive.google.com/drive/folders/1POoDCSkgjFpE8bAGN0Qm8zF4AM1IyTe3?usp=sharing
+https://drive.google.com/drive/folders/1vaQtYUo8_Rkr9aZf2_tRvSAgYo6oogcB?usp=sharing
 
  # Note 
 Here I've given an example excel file called “tata.xlsx” which contains the necessary student data…. the excel file u give MUST contain roll no, name, dept and  year columns.
