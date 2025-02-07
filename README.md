@@ -11,7 +11,7 @@ A user-friendly application built with Custom Tkinter & Pandas to help teachers/
 -  🔒 Anti-Close Protection – Prevents accidental app closure with a confirmation prompt using logout button.
 -  🌞🌙 Light/Dark Mode Toggle – Switch between themes for better visibility and user comfort.
 
-This app streamlines the tracking process, making it effortless for schools to maintain accurate attendance records. 🎯📚
+This app streamlines the tracking process, making it effortless for schools/colleges to maintain accurate attendance records. 🎯📚
 
 
  # Note 
