@@ -24,7 +24,8 @@ Since this is a new application, it might be flagged as unrecognized by the syst
 - Click on "More info" in the warning message.
 - Select "Run anyway" to proceed.
 
- ![image](https://github.com/user-attachments/assets/7ec1af8e-6f94-4714-94f0-2b9c4d2a2e5c)
+  
+![image](https://github.com/user-attachments/assets/877a6473-8e8c-405b-adad-f1187cf0ba0a)
 ![image](https://github.com/user-attachments/assets/05e0cdc6-03e1-4ada-9bc7-56dacb3cbe41)
 ![image](https://github.com/user-attachments/assets/d4abee32-8fbe-428d-92b5-4ebe3d06a0ae)
 ![image](https://github.com/user-attachments/assets/9052ab2f-af24-4b2b-9801-8605cbcd9e8d)
