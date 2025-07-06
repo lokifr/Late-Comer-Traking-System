@@ -16,6 +16,9 @@ This app streamlines the tracking process, making it effortless for schools/coll
 **exe file link**
 https://drive.google.com/drive/folders/1vaQtYUo8_Rkr9aZf2_tRvSAgYo6oogcB?usp=sharing
 
+# ⚠️ Project Status: Archived:
+This project is no longer maintained. This project was created as a practical workflow implementation to strengthen my Python GUI and data handling skills. It is no longer actively maintained. A known issue with case-sensitive roll number matching *remains unresolved*, as I have moved on to learning and building new projects.(The project still works with my master file stored on my Google Drive.)
+
  # Note 
 Here I've given an example excel file called “tata.xlsx” which contains the necessary student data…. the excel file u give MUST contain roll no, name, dept and  year columns.
 - username:admin
